@@ -1,0 +1,2 @@
+# Distance Based Classification
+ This repository demonstrates distance-based classification techniques, applying algorithms like k-Nearest Neighbors to a dataset. It includes data preprocessing, performance evaluation, and visualizations of decision boundaries. Key features include accuracy analysis, metric comparison, and graphical representation of results. Built using Python, Scikit-learn, and Matplotlib.
