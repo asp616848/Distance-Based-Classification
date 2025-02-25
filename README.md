@@ -47,6 +47,12 @@ Below is an example of the model performance visualization:
 ### WandB Project View
 ![WandB Project View](wandb-project_view.png)
 
+### Plot without template image
+![WandB Project View](face_clusters.png)
+
+### Plot after adding template image
+![WandB Project View](face_clusters_template.png)
+
 ## Findings
 - Different distance metrics yielded varying classification accuracies.
 - Experiment tracking with WandB provided valuable insights into model performance.
