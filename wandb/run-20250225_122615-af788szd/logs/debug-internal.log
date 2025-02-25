@@ -1,0 +1,10 @@
+{"time":"2025-02-25T12:26:15.2419617+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"f:\\VS Files\\Labs sem 4\\MLPR\\Distance-Based-Classification\\wandb\\run-20250225_122615-af788szd\\logs\\debug-core.log"}
+{"time":"2025-02-25T12:26:19.5095907+05:30","level":"INFO","msg":"created new stream","id":"af788szd"}
+{"time":"2025-02-25T12:26:19.5103913+05:30","level":"INFO","msg":"stream: started","id":"af788szd"}
+{"time":"2025-02-25T12:26:19.5103913+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"af788szd"}
+{"time":"2025-02-25T12:26:19.5103913+05:30","level":"INFO","msg":"handler: started","stream_id":"af788szd"}
+{"time":"2025-02-25T12:26:19.5103913+05:30","level":"INFO","msg":"sender: started","stream_id":"af788szd"}
+{"time":"2025-02-25T12:26:20.0448815+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-25T12:26:20.4163971+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:26:26.2720962+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:26:27.4805763+05:30","level":"INFO","msg":"Pausing system monitor"}
