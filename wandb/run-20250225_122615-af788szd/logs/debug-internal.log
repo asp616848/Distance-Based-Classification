@@ -22,3 +22,17 @@
 {"time":"2025-02-25T12:44:21.7251243+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/asp616848-plaksha-university/distance_classification_project/af788szd/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
 {"time":"2025-02-25T12:45:22.6656026+05:30","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2025-02-25T12:45:23.3680073+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:02.6233873+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:02.6449544+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:02.6605129+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:06.3295254+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:06.3443114+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:06.6233081+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:06.6340368+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:06.8722717+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:06.8849655+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:09.097544+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:09.1154578+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:09.3087035+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:47:09.3224245+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:47:09.6194155+05:30","level":"INFO","msg":"Pausing system monitor"}
