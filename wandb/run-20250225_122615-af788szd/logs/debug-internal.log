@@ -8,3 +8,17 @@
 {"time":"2025-02-25T12:26:20.4163971+05:30","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2025-02-25T12:26:26.2720962+05:30","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2025-02-25T12:26:27.4805763+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:38:09.0316115+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:38:09.4629994+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:39:05.4797493+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:39:06.710351+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:39:07.0828827+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:39:08.9270811+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:39:09.3064441+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:39:09.7016012+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:43:36.7805667+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"context deadline exceeded\",\"path\":[\"project\",\"run\"]}],\"data\":{\"project\":{\"run\":null}}}"}
+{"time":"2025-02-25T12:43:41.5689488+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/asp616848-plaksha-university/distance_classification_project/af788szd/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-02-25T12:44:14.4078979+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/asp616848-plaksha-university/distance_classification_project/af788szd/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-02-25T12:44:21.7251243+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/asp616848-plaksha-university/distance_classification_project/af788szd/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-02-25T12:45:22.6656026+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T12:45:23.3680073+05:30","level":"INFO","msg":"Pausing system monitor"}
